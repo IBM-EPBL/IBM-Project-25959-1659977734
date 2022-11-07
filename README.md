@@ -1,6 +1,14 @@
 # IBM-Project-25959-1659977734
 Retail Store Stock Inventory Analytics
 
+![image for git](https://user-images.githubusercontent.com/66632417/200237671-7a15f054-a664-463f-ab62-0cb0b917b9fd.gif)
+![image for git](https://user-images.githubusercontent.com/66632417/200237740-0f94b33c-ee9a-488c-a8a7-175d2f07397d.gif)
+
+
+
+
+
+
 
 Category: Data Analytics
 
